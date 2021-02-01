@@ -1,0 +1,16 @@
+{
+  "name": "auto.ria.ua-parser",
+  "version": "1.0.0",
+  "description": "Parser for the site auto.ria.ua",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "oleh.polishchuk.ck@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.1.15",
+    "playwright": "^1.8.0"
+  }
+}
